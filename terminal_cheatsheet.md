@@ -61,4 +61,4 @@ git commit -m"first commit" confirms to Git that we want to save this work (take
 ...or push an existing repository from the command line
 git remote add origin git@github.com:<your_github_name>/<your_repo>.git
 git branch -M main
-git push -u origin main
+git push git origin main
