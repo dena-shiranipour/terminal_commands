@@ -72,4 +72,4 @@ git branch -M main
 git push git origin main
 
 
-##To summarise..... Update on VScode, git add . ,git commit -m" ...." , git push origin main
+## To summarise..... Update on VScode, git add . ,git commit -m" ...." , git push origin main
