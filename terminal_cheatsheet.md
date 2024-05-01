@@ -10,6 +10,14 @@ To screenshot is 'Command, shift and 4' at same time
 
 press Option and number 3 for #
 
+git commit -m”…” to UPDATES COMMIT
+
+pwd - path working directory
+
+git push origin main (push to the branch called main)
+
+gst means git status
+
 'Control L' cleans up the screen of terminal
 'Command L' deletes previous
 
