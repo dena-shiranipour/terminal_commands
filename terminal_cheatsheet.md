@@ -70,3 +70,6 @@ git commit -m"first commit" confirms to Git that we want to save this work (take
 git remote add origin git@github.com:<your_github_name>/<your_repo>.git
 git branch -M main
 git push git origin main
+
+
+To summarise..... Update on VScode, git add . ,git commit -m" ...." , git push origin main
